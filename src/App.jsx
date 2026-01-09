@@ -55,7 +55,7 @@ export default function App() {
           {/* Actual card content */}
           <div className="relative rounded-2xl bg-white/5 backdrop-blur-md p-6 shadow-sm h-30 flex items-center justify-center">
             <h2 className="text-xl font-semibold mb-2 px-6 text-white/80 text-center">
-              I LOVE YOU GOBLU ❤️
+              ❤️ I LOVE YOU GOBLU ❤️
             </h2>
           </div>
         </div>
